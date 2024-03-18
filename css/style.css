@@ -51,7 +51,7 @@ nav {
     }
 }
 
-.button:hover {
+.filter-container li:hover {
         background-color: var(--filter-bg-color);
         cursor: pointer;
 }
